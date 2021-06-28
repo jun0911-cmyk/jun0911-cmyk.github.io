@@ -1,0 +1,6 @@
+블로그 push 방법
+
+1. git add README.md
+2. git commit -m "name"
+3. git branch -M master
+4. git push origin master
